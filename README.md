@@ -1,4 +1,4 @@
-# AI Energy Optimization System
+# Energy Optimization System
 
 ## Overview
 Machine learning system that predicts household energy consumption and provides optimization recommendations.
